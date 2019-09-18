@@ -11,3 +11,4 @@ We have successfully trained our own model, but ultimately opted to retrain Tens
 
 This repo contains all of our models as well as the template android app (source: Tensorflow examples). 
 
+Team: Ayoub El-Hanchi, Antoine Frau, and Artsiom Skliar
