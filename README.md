@@ -1,1 +1,1 @@
-# ccai-extreme-weather-prediction
+# AI for Climate Change Hackathon
